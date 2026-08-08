@@ -34,8 +34,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/Azakidev/Piccolo",
-                    "tag": "0.3.2",
-                    "commit": "6ea61527438f00fe04da644b1833967ee6e067c6"
+                    "tag": "0.3.3",
+                    "commit": "bb6cc50abe68c9bd7dc5696e895c1db554246b42"
                 },
                 "cargo-sources-piccolo.json",
                 {
